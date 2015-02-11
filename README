@@ -1,0 +1,21 @@
+# Connect Server
+
+# git config
+
+# git init
+# touch files
+# git add *
+# git commit -m initial
+# git remote add asp1 https://github.com/gcloudwatt/asp1.git
+# git remote add asp2 https://github.com/gcloudwatt/asp2.git
+# git push asp1 master
+
+# git config --global http.sslCAInfo /home/javl/git-certs/cert.pem
+
+# https://storage.fr1.cloudwatt.com/v1/AUTH_f462168636b34441ac49c9dbf6d9f57d
+# https://storage.fr1.cloudwatt.com/v1/AUTH_f462168636b34441ac49c9dbf6d9f57d/ASPERA/aspera-server.deb
+# https://storage.fr1.cloudwatt.com/v1/AUTH_f462168636b34441ac49c9dbf6d9f57d/ASPERA/aspera-server.lic
+
+# misc
+# http://askubuntu.com/questions/144235/locale-variables-have-no-effect-in-remote-shell-perl-warning-setting-locale-f
+# https://registry.hub.docker.com/u/jacksoncage/apache/dockerfile/
